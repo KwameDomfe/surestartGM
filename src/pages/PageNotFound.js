@@ -16,12 +16,6 @@ export default function PageNotFound() {
                 />
             </figure>
 
-            <figcaption className="gc9s4 gr2s1 flex flex-column items-center justify-center
-            mr1-00 white-90 tj ba br0-25 pa1-00"
-            >
-                <h3 className="mb2-00 lh-copy">"recusandae odio aperiam magnam similique ab tempora quis totam voluptatem eveniet officia eius assumenda saepe"</h3>
-                <p className="mb0-00">--2 Peter 3:23 --</p>
-            </figcaption>
 
             <hgroup className="w-100 blue0 gc1s12">
                 <h1 className="
@@ -57,27 +51,27 @@ export default function PageNotFound() {
                         <li>
                             <NavLink
                                 className="dib white-90 mb0-50"
-                                to="ministries"
+                                to="learning"
                             >
-                                Ministries
+                                Learning
                             </NavLink>
                         </li>
 
                         <li>
                             <NavLink
                                 className="dib white-90 mb0-50"
-                                to="church-services/"
+                                to="montessori/"
                             >
-                                Church Services
+                                Montessori
                             </NavLink>
                         </li>
                         
                         <li>
                             <NavLink
                                 className="dib white-90 mb0-50"
-                                to="grm-the-church/"
+                                to="admissions/"
                             >
-                                GRM-The Church
+                                Admissions
                             </NavLink>
                         </li>
                     </ul>
@@ -87,12 +81,12 @@ export default function PageNotFound() {
                     className="gr1s1 gc7s3
                     h0-00 pb-100
                     bg-blue1
-                    br0-50 ba shadow-yellow">
+                    br0-50 ba">
                 </div>
 
-                <div id="project_info" className="gr1s1 gc1s6
-                    w-100
-                    bg-white blue0 shadow-yellow">
+                <div id="project_info" className="gr1s1 gc1s6 black-90
+                    w-100 ba
+                    ">
                     <hgroup id="Project_Overview_1" className="f1-25">
                         <p className="mb0-00 pr1-00 lh-copy tracked tj">
                             Could not find the page you are looking for?
