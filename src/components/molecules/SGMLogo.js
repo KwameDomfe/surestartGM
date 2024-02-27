@@ -1,4 +1,4 @@
-import SGMlogo from '../../images/placeholders/regular_images/regular_03.jpg';
+import SGMlogo from '../../images/_partials/logos/surestart_logo.png';
 
 function SGMLogo() {
 
