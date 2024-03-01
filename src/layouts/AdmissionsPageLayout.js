@@ -53,7 +53,7 @@ export default function AdmissionsPageLayout() {
                         </li>
 
                         <li>
-                            <NavLink to = "welcome"
+                            <NavLink to = "admission-welcome"
                                 className="dib white-90 mb1-00"
                             >
                                Welcome
@@ -77,7 +77,7 @@ export default function AdmissionsPageLayout() {
                         </li>
 
                         <li>
-                            <NavLink to= "tuition-and-fees"
+                            <NavLink to= "tution-and-fees"
                                 className="dib white-90 mb1-00"
                             >
                                 Tuition And Fees

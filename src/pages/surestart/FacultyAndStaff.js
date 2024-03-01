@@ -6,7 +6,7 @@ export default function FacultyAndStaff() {
         className="min-vh-50 h-100 flex flex-column justify-start ml1-00"
     >
         <hgroup className="mb2-00">
-            <h1 className="f3-00">Faculty And Staff Overview</h1>
+            <h1 className="f3-00 tc">Faculty And Staff Overview</h1>
             <p className="lh-copy">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dicta nihil voluptatibus accusantium aspernatur beatae eius nisi fugiat, consequatur quod minus nesciunt laboriosam libero, quibusdam perferendis ut rerum provident et.
             </p>
             <p className="lh-copy">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dicta nihil voluptatibus accusantium aspernatur beatae eius nisi fugiat, consequatur quod minus nesciunt laboriosam libero, quibusdam perferendis ut rerum provident et.

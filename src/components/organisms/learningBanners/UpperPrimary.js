@@ -10,7 +10,7 @@ export default function UpperPrimary() {
         </h1>
 
         <Link to="upper-primary"
-            className="black-90 pv0-50 ph1-00 ba br0-25"
+            className="white-90 pv0-50 ph1-00 ba br0-25"
         >
             Explore More
         </Link>

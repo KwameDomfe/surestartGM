@@ -1,13 +1,15 @@
 
 
-export default function ContactsAndDirection() {
+export default function AcademicCalender() {
   return (
-    <div id="ContactsAndDirection"
+    <div id="AcademicCalender"
         className="grid gtc12 ml1-00"
     >
-        <div className="gc1s9">
-            <hgroup className="">
-                <h1 className="f3-00">Academic Calender</h1>
+        <div className="gc1s9"
+        >
+            <hgroup className=""
+            >
+                <h1 className="f3-00 tc">Academic Calender</h1>
                 <p className="lh-copy">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dicta nihil voluptatibus accusantium aspernatur beatae eius nisi fugiat, consequatur quod minus nesciunt laboriosam libero, quibusdam perferendis ut rerum provident et.
                 </p>
                 <p className="lh-copy">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dicta nihil voluptatibus accusantium aspernatur beatae eius nisi fugiat, consequatur quod minus nesciunt laboriosam libero, quibusdam perferendis ut rerum provident et.
@@ -385,6 +387,7 @@ export default function ContactsAndDirection() {
                     </div>
                     
                 </div>
+
                 <div className="grid gtc7 item-start ggap0-50 w-100 pr1-00 mb4-00 tc"
                 >
                     <h3 className="gc1s7 gr1s1 f1-50">February</h3>
@@ -752,6 +755,7 @@ export default function ContactsAndDirection() {
                     </div>
                     
                 </div>
+
                 <div className="grid gtc7 item-start ggap0-50 w-100 pr1-00 mb4-00 tc"
                 >
                     <h3 className="gc1s7 gr1s1 f1-50">March</h3>
@@ -1493,53 +1497,56 @@ export default function ContactsAndDirection() {
                     </div>
                     
                 </div>
-
             </div>
         </div>
-        <div className="gc10s3 pa1-00 bg-secondary white-90">
-            <h3>Adverts and Announcements</h3>
-            <hgroup id="Project_Overview_1" 
-                    className="mb1-00"
-                >
-                    <p className="mb0-00 pa1-00
-                        lh-copy ba tj"
+        <div className="gc10s3">
+            <div className="pa1-00 bg-secondary white-90">
+                <h3>Adverts and Announcements</h3>
+                <hgroup id="Project_Overview_1" 
+                        className="mb1-00"
                     >
-                        Ministries are magni impedit a atque earum officia iusto et reprehenderit tenetur iusto et reprehenderit tenetur nesciunt iusto et reprehenderit tenetur vero ratione pariatur odit omnis in temporibus.
-                    </p>
-                    
-            </hgroup>
-
-            <hgroup id="Project_Overview_1" 
-                    className="mb1-00"
-                >
-                    <p className="mb0-00 h0-00 pb-75
-                        lh-copy bg-gold ba tj"
-                    >
+                        <p className="mb0-00 pa1-00
+                            lh-copy ba tj"
+                        >
+                            Ministries are magni impedit a atque earum officia iusto et reprehenderit tenetur iusto et reprehenderit tenetur nesciunt iusto et reprehenderit tenetur vero ratione pariatur odit omnis in temporibus.
+                        </p>
                         
-                    </p>
-                    
-            </hgroup>
-            <hgroup id="Project_Overview_1" 
-                    className="mb1-00"
-                >
-                    <p className="mb0-00 pa1-00
-                        lh-copy ba tj"
-                    >
-                        Ministries are magni impedit a atque earum officia iusto et reprehenderit tenetur iusto et reprehenderit tenetur nesciunt iusto et reprehenderit tenetur vero ratione pariatur odit omnis in temporibus.
-                    </p>
-                    
-            </hgroup>
+                </hgroup>
 
-            <hgroup id="Project_Overview_1" 
-                    className=""
-                >
-                    <p className="mb0-00 h0-00 pb-75
-                        lh-copy bg-gold ba tj"
+                <hgroup id="Project_Overview_1" 
+                        className="mb1-00"
                     >
+                        <p className="mb0-00 h0-00 pb-75
+                            lh-copy bg-gold ba tj"
+                        >
+                            
+                        </p>
                         
-                    </p>
-                    
-            </hgroup>
+                </hgroup>
+
+                <hgroup id="Project_Overview_1" 
+                        className="mb1-00"
+                    >
+                        <p className="mb0-00 pa1-00
+                            lh-copy ba tj"
+                        >
+                            Ministries are magni impedit a atque earum officia iusto et reprehenderit tenetur iusto et reprehenderit tenetur nesciunt iusto et reprehenderit tenetur vero ratione pariatur odit omnis in temporibus.
+                        </p>
+                        
+                </hgroup>
+
+                <hgroup id="Project_Overview_1" 
+                        className=""
+                    >
+                        <p className="mb0-00 h0-00 pb-75
+                            lh-copy bg-gold ba tj"
+                        >
+                            
+                        </p>
+                        
+                </hgroup>
+
+            </div>
         </div>
     </div>
   )

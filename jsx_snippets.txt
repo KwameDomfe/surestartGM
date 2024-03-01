@@ -6,11 +6,9 @@
             bg-black-80"
         >
             <figure>
-                
                 <figcaption class="pa0-25 white-90">
                     <h3 class="mv1-00">Monday</h3>
                     <p class="mb2-00">--</p>
-                
                 </figcaption>
             </figure>
         </div>

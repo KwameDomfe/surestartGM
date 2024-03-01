@@ -23,16 +23,6 @@ export const mainMenuLinks = [
         id : 5,
         url : '/families',
         text : 'families'
-    },
-    {
-        id : 6,
-        url : '/support',
-        text : 'Support'
-    },
-    {
-        id : 7,
-        url : '/alumni',
-        text : 'Alumni'
     }
 ];
 

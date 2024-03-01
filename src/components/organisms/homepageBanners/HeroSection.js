@@ -23,7 +23,7 @@ function HeroSection() {
 
             <div id="HeroSection__Highlights"
                 className="gc1s12
-                    flex justify-between items-center 
+                    flex justify-around items-center 
                     container container90  
                     pv4-00"
             >
@@ -54,20 +54,6 @@ function HeroSection() {
                     ba br5-00"
                 >
                     card I
-                </div>
-                <div className="grid items-center justify-center 
-                    w6-00 h6-00 
-                    bg-black-50 
-                    ba br5-00"
-                >
-                    card II
-                </div>
-                <div className="flex items-center justify-center 
-                    w6-00 h6-00 
-                    bg-black-50 
-                    ba br5-00"
-                >
-                    card III
                 </div>
             </div>
         </article>

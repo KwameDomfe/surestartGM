@@ -9,11 +9,10 @@ import MontessoriInTheNews from "./MontessoriInTheNews"
 function MontessoriLandingPage() {
     
     return (
-        <div className="grid gtc12 flex item-center justify-center"
+        <div className="grid gtc12 ggap1-00 flex item-center justify-center ml1-00"
         >
-            <div className="gc1s12 h-100 mb4-00"
-            >
-                <hgroup className="gc1s12 w-100 blue0 tc"
+            
+                <hgroup className="gc1s12 gr1s1 w-100 blue0 tc"
                 >
                     <h1 className="ph1-00 pt0-00 mv1-50
                         f3-00 ttu"
@@ -23,48 +22,47 @@ function MontessoriLandingPage() {
                 </hgroup>
 
                 <section id="MontessoriCoreConcepts" 
-                    className="flex items-center justify-center
-                    min-vh-50 "
+                    className="gc1s12 gr2s2 flex items-center justify-center
+                    min-vh-50 ba"
                 >
                     <CoreConcepts />
                 </section>
 
                 <section id="MontessorVersusConventionalMethods" 
-                    className="flex items-center justify-center 
+                    className="gr5s1 gc1s12 flex items-center justify-center 
                     min-vh-50 
                     bg-black-50"
                 >
                    <MontessorVersusConventionalMethods />
                 </section>
 
-                <section id="" 
-                    className="flex items-center justify-center
-                    min-vh-50 "
+                <section id="BeyondSureStart" 
+                    className="gc7s6 gr6s1 flex items-center justify-center
+                    min-vh-50 ba"
                 >
                    <BeyondSureStart />
                 </section>
 
-                <section id="" 
-                    className="flex items-center justify-center
+                <section id="GraduateProfiles" 
+                    className=" gc1s6 flex items-center justify-center
                     min-vh-50 bg-black-50"
                 >
                    <GraduateProfiles />
                 </section>
 
-                <section id="" 
-                    className="flex items-center justify-center
-                    min-vh-50"
+                <section id="Reseach" 
+                    className="gc1s6 gr4s1 flex items-center justify-center
+                    min-vh-50 ba"
                 >
                    <Reseach />
                 </section>
 
-                <section id="" 
-                    className="flex items-center justify-center
+                <section id="MontessoriInTheNews" 
+                    className="gc7s6 gr4s1 flex items-center justify-center
                     min-vh-50 bg-black-50"
                 >
                    <MontessoriInTheNews />
                 </section>
-            </div>
         </div>
     )
 }

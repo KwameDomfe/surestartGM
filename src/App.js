@@ -172,7 +172,7 @@ import ParentTeacherAssociation from './pages/families/ParentTeacherAssociation'
         <Route path="admissions/"
             element={<AdmissionsPageLayout />}
         >
-            <Route path='welcome'
+            <Route path='admission-welcome'
                 element={<Welcome />}
             
             />

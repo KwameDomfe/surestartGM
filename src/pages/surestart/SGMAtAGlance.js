@@ -13,7 +13,7 @@ export default function SGMAtAGlance() {
             <div className="grid gtc12 ggap1-00 gc1s9 bg-primary pa1-00"
             >
                 <div id="FooterChurchServices" 
-                    class="gr1s1 gc1s6 bb" 
+                    class="gr1s1 gc1s6 bb br" 
                 >
                         <h2 class="ttu">
                             Type of School

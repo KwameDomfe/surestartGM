@@ -1,4 +1,5 @@
 import AdmissionProcess from '../../components/organisms/admissionsBanners/AdmissionProcess'
+import AdmissionWelcome from '../../components/organisms/admissionsBanners/Welcome'
 import ConnectWithUs from '../../components/organisms/admissionsBanners/ConnectWithUs'
 import TutionAndFees from '../../components/organisms/admissionsBanners/TutionAndFees'
 import FinancialAid from '../../components/organisms/admissionsBanners/FinancialAid'
@@ -25,6 +26,12 @@ function AdmissionsLandingPage() {
                     </h1>
                 </hgroup>
 
+                <section id="" 
+                    className="flex items-center justify-center
+                        min-vh-50 "
+                >
+                    <AdmissionWelcome />
+                </section>
                 <section id="" 
                     className="flex items-center justify-center
                         min-vh-50 "
@@ -56,7 +63,7 @@ function AdmissionsLandingPage() {
                 <section id="" 
                     className="flex items-center justify-center
                     min-vh-50 
-                    bg-black-50"
+                    "
                 >
                     <FrequentlyAskedQuestions />
                 </section>

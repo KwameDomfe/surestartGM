@@ -68,20 +68,6 @@ function SocialMediaNavigation() {
                     />
                 </Link>
             </li>
-            {/* <li className="pa0-25 
-                ba br5-00 b--blue0"
-            > 
-                <Link to="/" 
-                    title="Get In Touch with GRM on WhatsApp" 
-                    target="" 
-                    rel="noopener noreferrer"
-                >
-                    <img src={whatsAppLogo} 
-                        alt="WhatsApp Logo" 
-                        className="w1-00"
-                    />
-                </Link>
-            </li> */}
         </ul>
     )
 }

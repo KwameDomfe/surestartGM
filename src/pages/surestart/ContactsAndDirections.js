@@ -7,7 +7,7 @@ export default function ContactsAndDirection() {
         className="flex flex-column justify-start ml1-00"
     >
         <hgroup className="mb2-00">
-            <h1 className="f3-00">Contacts and Directions</h1>
+            <h1 className="f3-00 tc">Contacts and Directions</h1>
             <p className="lh-copy">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dicta nihil voluptatibus accusantium aspernatur beatae eius nisi fugiat, consequatur quod minus nesciunt laboriosam libero, quibusdam perferendis ut rerum provident et.
             </p>
             <p className="lh-copy">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dicta nihil voluptatibus accusantium aspernatur beatae eius nisi fugiat, consequatur quod minus nesciunt laboriosam libero, quibusdam perferendis ut rerum provident et.
@@ -25,7 +25,7 @@ export default function ContactsAndDirection() {
                         
                         <figcaption class="pa1-00 mt1-00 ">
                             <h3 class="mv1-00">For Admissions</h3>
-                            <p class="mb2-00">English</p>
+                            <p class="mb2-00">Contact Details</p>
                            
                         </figcaption>
                     </figure>
@@ -38,7 +38,7 @@ export default function ContactsAndDirection() {
                        
                         <figcaption class="pa1-00 mt1-00 ">
                             <h3 class="mv1-00">For Other Enquiries</h3>
-                            <p class="mb2-00">English</p>
+                            <p class="mb2-00">Contact Details</p>
                           
                         </figcaption>
                     </figure>
@@ -60,7 +60,7 @@ export default function ContactsAndDirection() {
                             className="h-100"
                         />
                         <figcaption class="pa1-00 mt1-00 bg-black-50">
-                            <h3 class="mv1-00">Directions to School</h3>
+                            <h3 class="mv1-00">Map Showing Directions to School</h3>
                         </figcaption>
                     </figure>
                 </div>

@@ -16,7 +16,7 @@ export default function Home(){
         </section>
         <section id="HomePage__Ministries"
             className="min-vh-50 flex items-center justify-center
-                bg-secondary"
+                "
         > 
            <SGMLearning />
         </section>
