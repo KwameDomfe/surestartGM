@@ -6,14 +6,14 @@ function PoweredBy() {
     return (
         <div id="m__poweredby" 
             className="flex items-center justify-center flex-column 
-            blue0 f0-75"
+            white-90 f0-75"
         >
             <small className="mb0-50"
             >
                 powered by:
             </small>
             <Link to = {kdaAddress}
-                className="blue0"
+                className="white-90"
             >
                 <div className="flex"
                 >

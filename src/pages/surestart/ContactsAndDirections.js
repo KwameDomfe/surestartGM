@@ -23,9 +23,9 @@ export default function ContactsAndDirection() {
                 >
                     <figure>
                         
-                        <figcaption class="pa1-00 mt1-00 ">
-                            <h3 class="mv1-00">For Admissions</h3>
-                            <p class="mb2-00">Contact Details</p>
+                        <figcaption className="pa1-00 mt1-00 ">
+                            <h3 className="mv1-00">For Admissions</h3>
+                            <p className="mb2-00">Contact Details</p>
                            
                         </figcaption>
                     </figure>
@@ -36,9 +36,9 @@ export default function ContactsAndDirection() {
                 >
                    <figure>
                        
-                        <figcaption class="pa1-00 mt1-00 ">
-                            <h3 class="mv1-00">For Other Enquiries</h3>
-                            <p class="mb2-00">Contact Details</p>
+                        <figcaption className="pa1-00 mt1-00 ">
+                            <h3 className="mv1-00">For Other Enquiries</h3>
+                            <p className="mb2-00">Contact Details</p>
                           
                         </figcaption>
                     </figure>
@@ -59,8 +59,8 @@ export default function ContactsAndDirection() {
                             alt=""
                             className="h-100"
                         />
-                        <figcaption class="pa1-00 mt1-00 bg-black-50">
-                            <h3 class="mv1-00">Map Showing Directions to School</h3>
+                        <figcaption className="pa1-00 mt1-00 bg-black-50">
+                            <h3 className="mv1-00">Map Showing Directions to School</h3>
                         </figcaption>
                     </figure>
                 </div>

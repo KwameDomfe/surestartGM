@@ -27,13 +27,13 @@ export default function AcademicCalender() {
                             flex justify-center 
                             bg-black-80"
                         >
-                        <p class="mv1-00">Monday</p>
+                        <p className="mv1-00">Monday</p>
                         </div>
                         <div className="gc2s1 gr1s1
                             flex justify-center
                             bg-black-80 "
                         >
-                            <p class="mv1-00"
+                            <p className="mv1-00"
                             >
                                 Tuesday
                             </p>
@@ -42,31 +42,31 @@ export default function AcademicCalender() {
                             flex justify-center
                             bg-black-80 "
                         >
-                            <p class="mv1-00">Wednesday</p>
+                            <p className="mv1-00">Wednesday</p>
                         </div>
                         <div className="gc4s1 gr1s1
                             flex  justify-center
                             bg-black-80"
                         >
-                            <p class="mv1-00">Thursday</p>
+                            <p className="mv1-00">Thursday</p>
                         </div>
                         <div className="gc5s1 gr1s1
                             flex  justify-center
                             bg-black-80 "
                         >
-                            <p class="mv1-00">Friday</p>
+                            <p className="mv1-00">Friday</p>
                         </div>
                         <div className="gc6s1 gr1s1
                             flex  justify-center
                             bg-black-80 "
                         >
-                            <p class="mv1-00">Saturday</p>
+                            <p className="mv1-00">Saturday</p>
                         </div>
                         <div className="gc7s1 gr1s1
                             flex justify-center
                             bg-black-80 "
                         >
-                            <p class="mv1-00">sunday</p>
+                            <p className="mv1-00">sunday</p>
                         </div>
                     </div>
                 
@@ -75,61 +75,61 @@ export default function AcademicCalender() {
                         <div className="gc1s1 gr1s1
                             bg-black-80"
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">1</h2>
-                                <p class="mb0-00 gold f1-00">New Year Holiday</p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">1</h2>
+                                <p className="mb0-00 gold f1-00">New Year Holiday</p>
                             </hgroup>
                         </div>
                         <div className="gc2s1 gr1s1
                             bg-black-80 "
                         >
-                        <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">2</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                        <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">2</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc3s1 gr1s1
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">3</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">3</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc4s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">4</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">4</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc5s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">5</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">5</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc6s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">6</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">6</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc7s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">7</h2>
-                                <p class="mb0-00 gold f1-00">Constitution Day</p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">7</h2>
+                                <p className="mb0-00 gold f1-00">Constitution Day</p>
                             </hgroup>
                         </div>
                     </div>
@@ -139,61 +139,61 @@ export default function AcademicCalender() {
                         <div className="gc1s1 gr1s1
                             bg-black-80"
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">8</h2>
-                                <p class="mb0-00 gold f1-00">Day off for Constitution Day</p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">8</h2>
+                                <p className="mb0-00 gold f1-00">Day off for Constitution Day</p>
                             </hgroup>
                         </div>
                         <div className="gc2s1 gr1s1
                             bg-black-80 "
                         >
-                        <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">9</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                        <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">9</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc3s1 gr1s1
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">10</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">10</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc4s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">11</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">11</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc5s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">12</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">12</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc6s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">13</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">13</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc7s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">14</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">14</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                     </div>
@@ -203,61 +203,61 @@ export default function AcademicCalender() {
                         <div className="gc1s1 gr1s1
                             bg-black-80"
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">15</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">15</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc2s1 gr1s1
                             bg-black-80 "
                         >
-                        <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">16</h2>
-                                <p class="mb0-00 gold f1-00">School Reopens Day</p>
+                        <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">16</h2>
+                                <p className="mb0-00 gold f1-00">School Reopens Day</p>
                             </hgroup>
                         </div>
                         <div className="gc3s1 gr1s1
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">17</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">17</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc4s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">18</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">18</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc5s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">19</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">19</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc6s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">20</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">20</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc7s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">21</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">21</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                     </div>
@@ -267,61 +267,61 @@ export default function AcademicCalender() {
                         <div className="gc1s1 gr1s1
                             bg-black-80"
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">22</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">22</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc2s1 gr1s1
                             bg-black-80 "
                         >
-                        <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">23</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                        <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">23</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc3s1 gr1s1
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">24</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">24</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc4s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">25</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">25</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc5s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">26</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">26</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc6s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">27</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">27</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc7s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">28</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">28</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                     </div>
@@ -331,32 +331,32 @@ export default function AcademicCalender() {
                         <div className="gc1s1 gr1s1
                             bg-black-80"
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">29</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">29</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc2s1 gr1s1
                             bg-black-80 "
                         >
-                        <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">30</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                        <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">30</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc3s1 gr1s1
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">31</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">31</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc4s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
+                            <hgroup className="pa0-50 h0-00 pb-100">
                                 
                             </hgroup>
                         </div>
@@ -364,7 +364,7 @@ export default function AcademicCalender() {
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
+                            <hgroup className="pa0-50 h0-00 pb-100">
                                 
                             </hgroup>
                         </div>
@@ -372,7 +372,7 @@ export default function AcademicCalender() {
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
+                            <hgroup className="pa0-50 h0-00 pb-100">
                             
                             </hgroup>
                         </div>
@@ -380,7 +380,7 @@ export default function AcademicCalender() {
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
+                            <hgroup className="pa0-50 h0-00 pb-100">
                                 
                             </hgroup>
                         </div>
@@ -396,13 +396,13 @@ export default function AcademicCalender() {
                             flex justify-center 
                             bg-black-80"
                         >
-                        <p class="mv1-00">Monday</p>
+                        <p className="mv1-00">Monday</p>
                         </div>
                         <div className="gc2s1 gr1s1
                             flex justify-center
                             bg-black-80 "
                         >
-                            <p class="mv1-00"
+                            <p className="mv1-00"
                             >
                                 Tuesday
                             </p>
@@ -411,31 +411,31 @@ export default function AcademicCalender() {
                             flex justify-center
                             bg-black-80 "
                         >
-                            <p class="mv1-00">Wednesday</p>
+                            <p className="mv1-00">Wednesday</p>
                         </div>
                         <div className="gc4s1 gr1s1
                             flex  justify-center
                             bg-black-80"
                         >
-                            <p class="mv1-00">Thursday</p>
+                            <p className="mv1-00">Thursday</p>
                         </div>
                         <div className="gc5s1 gr1s1
                             flex  justify-center
                             bg-black-80 "
                         >
-                            <p class="mv1-00">Friday</p>
+                            <p className="mv1-00">Friday</p>
                         </div>
                         <div className="gc6s1 gr1s1
                             flex  justify-center
                             bg-black-80 "
                         >
-                            <p class="mv1-00">Saturday</p>
+                            <p className="mv1-00">Saturday</p>
                         </div>
                         <div className="gc7s1 gr1s1
                             flex justify-center
                             bg-black-80 "
                         >
-                            <p class="mv1-00">sunday</p>
+                            <p className="mv1-00">sunday</p>
                         </div>
                     </div>
                 
@@ -444,21 +444,21 @@ export default function AcademicCalender() {
                         <div className="gc1s1 gr1s1
                             bg-black-80"
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
+                            <hgroup className="pa0-50 h0-00 pb-100">
                                 
                             </hgroup>
                         </div>
                         <div className="gc2s1 gr1s1
                             bg-black-80 "
                         >
-                        <hgroup class="pa0-50 h0-00 pb-100">
+                        <hgroup className="pa0-50 h0-00 pb-100">
                             
                             </hgroup>
                         </div>
                         <div className="gc3s1 gr1s1
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
+                            <hgroup className="pa0-50 h0-00 pb-100">
                             
                             </hgroup>
                         </div>
@@ -466,36 +466,36 @@ export default function AcademicCalender() {
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">1</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">1</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc5s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">2</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">2</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc6s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">3</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">3</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc7s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">4</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">4</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                     </div>
@@ -505,61 +505,61 @@ export default function AcademicCalender() {
                         <div className="gc1s1 gr1s1
                             bg-black-80"
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">5</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">5</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc2s1 gr1s1
                             bg-black-80 "
                         >
-                        <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">6</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                        <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">6</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc3s1 gr1s1
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">7</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">7</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc4s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">8</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">8</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc5s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">9</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">9</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc6s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">10</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">10</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc7s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">11</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">11</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                     </div>
@@ -569,61 +569,61 @@ export default function AcademicCalender() {
                         <div className="gc1s1 gr1s1
                             bg-black-80"
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">12</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">12</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc2s1 gr1s1
                             bg-black-80 "
                         >
-                        <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">13</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                        <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">13</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc3s1 gr1s1
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">14</h2>
-                                <p class="mb0-00 gold f1-00">Chocolate Day</p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">14</h2>
+                                <p className="mb0-00 gold f1-00">Chocolate Day</p>
                             </hgroup>
                         </div>
                         <div className="gc4s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">15</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">15</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc5s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">16</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">16</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc6s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">17</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">17</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc7s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">18</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">18</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                     </div>
@@ -633,61 +633,61 @@ export default function AcademicCalender() {
                         <div className="gc1s1 gr1s1
                             bg-black-80"
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">19</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">19</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc2s1 gr1s1
                             bg-black-80 "
                         >
-                        <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">20</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                        <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">20</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc3s1 gr1s1
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">21</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">21</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc4s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">22</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">22</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc5s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">23</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">23</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc6s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">24</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">24</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc7s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">25</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">25</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                     </div>
@@ -697,34 +697,34 @@ export default function AcademicCalender() {
                         <div className="gc1s1 gr1s1
                             bg-black-80"
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">26</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">26</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc2s1 gr1s1
                             bg-black-80 "
                         >
-                        <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">27</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                        <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">27</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc3s1 gr1s1
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">28</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">28</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc4s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">29</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">29</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                                 
                             </hgroup>
                         </div>
@@ -732,7 +732,7 @@ export default function AcademicCalender() {
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
+                            <hgroup className="pa0-50 h0-00 pb-100">
                                 
                             </hgroup>
                         </div>
@@ -740,7 +740,7 @@ export default function AcademicCalender() {
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
+                            <hgroup className="pa0-50 h0-00 pb-100">
                             
                             </hgroup>
                         </div>
@@ -748,7 +748,7 @@ export default function AcademicCalender() {
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
+                            <hgroup className="pa0-50 h0-00 pb-100">
                                 
                             </hgroup>
                         </div>
@@ -764,13 +764,13 @@ export default function AcademicCalender() {
                             flex justify-center 
                             bg-black-80"
                         >
-                        <p class="mv1-00">Monday</p>
+                        <p className="mv1-00">Monday</p>
                         </div>
                         <div className="gc2s1 gr1s1
                             flex justify-center
                             bg-black-80 "
                         >
-                            <p class="mv1-00"
+                            <p className="mv1-00"
                             >
                                 Tuesday
                             </p>
@@ -779,31 +779,31 @@ export default function AcademicCalender() {
                             flex justify-center
                             bg-black-80 "
                         >
-                            <p class="mv1-00">Wednesday</p>
+                            <p className="mv1-00">Wednesday</p>
                         </div>
                         <div className="gc4s1 gr1s1
                             flex  justify-center
                             bg-black-80"
                         >
-                            <p class="mv1-00">Thursday</p>
+                            <p className="mv1-00">Thursday</p>
                         </div>
                         <div className="gc5s1 gr1s1
                             flex  justify-center
                             bg-black-80 "
                         >
-                            <p class="mv1-00">Friday</p>
+                            <p className="mv1-00">Friday</p>
                         </div>
                         <div className="gc6s1 gr1s1
                             flex  justify-center
                             bg-black-80 "
                         >
-                            <p class="mv1-00">Saturday</p>
+                            <p className="mv1-00">Saturday</p>
                         </div>
                         <div className="gc7s1 gr1s1
                             flex justify-center
                             bg-black-80 "
                         >
-                            <p class="mv1-00">sunday</p>
+                            <p className="mv1-00">sunday</p>
                         </div>
                     </div>
                 
@@ -812,61 +812,61 @@ export default function AcademicCalender() {
                         <div className="gc1s1 gr1s1
                             bg-black-80"
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00"> </h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00"> </h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc2s1 gr1s1
                             bg-black-80 "
                         >
-                        <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00"> </h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                        <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00"> </h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc3s1 gr1s1
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00"> </h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00"> </h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc4s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00"> </h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00"> </h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc5s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">1</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">1</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc6s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">2</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">2</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc7s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">3</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">3</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                     </div>
@@ -876,61 +876,61 @@ export default function AcademicCalender() {
                         <div className="gc1s1 gr1s1
                             bg-black-80"
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">4</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">4</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc2s1 gr1s1
                             bg-black-80 "
                         >
-                        <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">5</h2>
-                                <p class="mb0-00 gold f1-00">Educational Trip</p>
+                        <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">5</h2>
+                                <p className="mb0-00 gold f1-00">Educational Trip</p>
                             </hgroup>
                         </div>
                         <div className="gc3s1 gr1s1
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">6</h2>
-                                <p class="mb0-00 gold f1-00">Independence Day</p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">6</h2>
+                                <p className="mb0-00 gold f1-00">Independence Day</p>
                             </hgroup>
                         </div>
                         <div className="gc4s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">7</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">7</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc5s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">8</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">8</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc6s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">9</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">9</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc7s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">10</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">10</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                     </div>
@@ -940,61 +940,61 @@ export default function AcademicCalender() {
                         <div className="gc1s1 gr1s1
                             bg-black-80"
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">11</h2>
-                                <p class="mb0-00 gold f1-00">Ramadan start</p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">11</h2>
+                                <p className="mb0-00 gold f1-00">Ramadan start</p>
                             </hgroup>
                         </div>
                         <div className="gc2s1 gr1s1
                             bg-black-80 "
                         >
-                        <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">12</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                        <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">12</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc3s1 gr1s1
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">13</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">13</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc4s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">14</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">14</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc5s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">15</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">15</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc6s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">16</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">16</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc7s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">17</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">17</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                     </div>
@@ -1004,61 +1004,61 @@ export default function AcademicCalender() {
                         <div className="gc1s1 gr1s1
                             bg-black-80"
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">18</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">18</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc2s1 gr1s1
                             bg-black-80 "
                         >
-                        <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">19</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                        <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">19</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc3s1 gr1s1
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">20</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">20</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc4s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">21</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">21</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc5s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">22</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">22</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc6s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">23</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">23</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc7s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">24</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">24</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                     </div>
@@ -1068,61 +1068,61 @@ export default function AcademicCalender() {
                         <div className="gc1s1 gr1s1
                             bg-black-80"
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">25</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">25</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc2s1 gr1s1
                             bg-black-80 "
                         >
-                        <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">26</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                        <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">26</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc3s1 gr1s1
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">27</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">27</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc4s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">28</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">28</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc5s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">29</h2>
-                                <p class="mb0-00 gold f1-00">Good Friday</p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">29</h2>
+                                <p className="mb0-00 gold f1-00">Good Friday</p>
                             </hgroup>
                         </div>
                         <div className="gc6s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">30</h2>
-                                <p class="mb0-00 gold f1-00">Holy Saturday</p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">30</h2>
+                                <p className="mb0-00 gold f1-00">Holy Saturday</p>
                             </hgroup>
                         </div>
                         <div className="gc7s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                            <h2 class="mb1-00">31</h2>
-                                <p class="mb0-00 gold f1-00">Easter Sunday</p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                            <h2 className="mb1-00">31</h2>
+                                <p className="mb0-00 gold f1-00">Easter Sunday</p>
                             </hgroup>
                         </div>
                     </div>
@@ -1137,13 +1137,13 @@ export default function AcademicCalender() {
                             flex justify-center 
                             bg-black-80"
                         >
-                        <p class="mv1-00">Monday</p>
+                        <p className="mv1-00">Monday</p>
                         </div>
                         <div className="gc2s1 gr1s1
                             flex justify-center
                             bg-black-80 "
                         >
-                            <p class="mv1-00"
+                            <p className="mv1-00"
                             >
                                 Tuesday
                             </p>
@@ -1152,31 +1152,31 @@ export default function AcademicCalender() {
                             flex justify-center
                             bg-black-80 "
                         >
-                            <p class="mv1-00">Wednesday</p>
+                            <p className="mv1-00">Wednesday</p>
                         </div>
                         <div className="gc4s1 gr1s1
                             flex  justify-center
                             bg-black-80"
                         >
-                            <p class="mv1-00">Thursday</p>
+                            <p className="mv1-00">Thursday</p>
                         </div>
                         <div className="gc5s1 gr1s1
                             flex  justify-center
                             bg-black-80 "
                         >
-                            <p class="mv1-00">Friday</p>
+                            <p className="mv1-00">Friday</p>
                         </div>
                         <div className="gc6s1 gr1s1
                             flex  justify-center
                             bg-black-80 "
                         >
-                            <p class="mv1-00">Saturday</p>
+                            <p className="mv1-00">Saturday</p>
                         </div>
                         <div className="gc7s1 gr1s1
                             flex justify-center
                             bg-black-80 "
                         >
-                            <p class="mv1-00">sunday</p>
+                            <p className="mv1-00">sunday</p>
                         </div>
                     </div>
                 
@@ -1185,61 +1185,61 @@ export default function AcademicCalender() {
                         <div className="gc1s1 gr1s1
                             bg-black-80"
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">1</h2>
-                                <p class="mb0-00 gold f1-00">Easter Monday</p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">1</h2>
+                                <p className="mb0-00 gold f1-00">Easter Monday</p>
                             </hgroup>
                         </div>
                         <div className="gc2s1 gr1s1
                             bg-black-80 "
                         >
-                        <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">2</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                        <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">2</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc3s1 gr1s1
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">3</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">3</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc4s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">4</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">4</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc5s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">5</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">5</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc6s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">6</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">6</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc7s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">7</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">7</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                     </div>
@@ -1249,61 +1249,61 @@ export default function AcademicCalender() {
                         <div className="gc1s1 gr1s1
                             bg-black-80"
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">8</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">8</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc2s1 gr1s1
                             bg-black-80 "
                         >
-                        <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">9</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                        <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">9</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc3s1 gr1s1
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">10</h2>
-                                <p class="mb0-00 gold f1-00">Eid ul-Fitr</p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">10</h2>
+                                <p className="mb0-00 gold f1-00">Eid ul-Fitr</p>
                             </hgroup>
                         </div>
                         <div className="gc4s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">11</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">11</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc5s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">12</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">12</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc6s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">13</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">13</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc7s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">14</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">14</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                     </div>
@@ -1313,61 +1313,61 @@ export default function AcademicCalender() {
                         <div className="gc1s1 gr1s1
                             bg-black-80"
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">15</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">15</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc2s1 gr1s1
                             bg-black-80 "
                         >
-                        <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">16</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                        <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">16</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc3s1 gr1s1
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">17</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">17</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc4s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">18</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">18</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc5s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">19</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">19</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc6s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">20</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">20</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc7s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">21</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">21</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                     </div>
@@ -1377,61 +1377,61 @@ export default function AcademicCalender() {
                         <div className="gc1s1 gr1s1
                             bg-black-80"
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">22</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">22</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc2s1 gr1s1
                             bg-black-80 "
                         >
-                        <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">23</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                        <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">23</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc3s1 gr1s1
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">24</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">24</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc4s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">25</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">25</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc5s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">26</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">26</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc6s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">27</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">27</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc7s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">28</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">28</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                     </div>
@@ -1441,32 +1441,32 @@ export default function AcademicCalender() {
                         <div className="gc1s1 gr1s1
                             bg-black-80"
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">29</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">29</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc2s1 gr1s1
                             bg-black-80 "
                         >
-                        <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">30</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                        <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">30</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc3s1 gr1s1
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
-                                <h2 class="mb1-00">31</h2>
-                                <p class="mb0-00 gold f1-00"></p>
+                            <hgroup className="pa0-50 h0-00 pb-100">
+                                <h2 className="mb1-00">31</h2>
+                                <p className="mb0-00 gold f1-00"></p>
                             </hgroup>
                         </div>
                         <div className="gc4s1 gr1s1
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
+                            <hgroup className="pa0-50 h0-00 pb-100">
                                 
                             </hgroup>
                         </div>
@@ -1474,7 +1474,7 @@ export default function AcademicCalender() {
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
+                            <hgroup className="pa0-50 h0-00 pb-100">
                                 
                             </hgroup>
                         </div>
@@ -1482,7 +1482,7 @@ export default function AcademicCalender() {
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
+                            <hgroup className="pa0-50 h0-00 pb-100">
                             
                             </hgroup>
                         </div>
@@ -1490,7 +1490,7 @@ export default function AcademicCalender() {
                             
                             bg-black-80 "
                         >
-                            <hgroup class="pa0-50 h0-00 pb-100">
+                            <hgroup className="pa0-50 h0-00 pb-100">
                                 
                             </hgroup>
                         </div>

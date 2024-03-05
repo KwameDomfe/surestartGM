@@ -11,25 +11,25 @@ export default function LearningPageLayout() {
             <header id="" 
                 className="grid gtc12"
             >
-                <figure className="gc1s12 gr1s1 flex ggap0-50"
+                <div className="gc1s12 gr1s1 grid gtc4 ggap0-50 vh-60"
                 >
                     <img src={regular_image} 
                         alt="" 
-                        className="vh-60 cover"
+                        className="h-100 cover"
                     />
                     <img src={regular_image} 
                         alt="" 
-                        className="vh-60 cover"
+                        className="h-100 cover"
                     />
                     <img src={regular_image} 
                         alt="" 
-                        className="vh-60 cover"
+                        className="h-100 cover"
                     />
                     <img src={regular_image} 
                         alt="" 
-                        className="vh-60 cover"
+                        className="h-100 cover"
                     />
-                </figure>
+                </div>
             </header>
 
             <div id=""

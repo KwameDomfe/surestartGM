@@ -25,10 +25,10 @@ export default function FacultyAndStaff() {
                             alt=""
                             className="h-100"
                         />
-                        <figcaption class="pa1-00 mt1-00 bg-black-50">
-                            <h3 class="mv1-00">Auntie Winnie</h3>
-                            <p class="mb2-00">English</p>
-                            <a class="white-90 pv0-25 ph0-50 ba br0-25" 
+                        <figcaption className="pa1-00 mt1-00 bg-black-50">
+                            <h3 className="mv1-00">Auntie Winnie</h3>
+                            <p className="mb2-00">English</p>
+                            <a className="white-90 pv0-25 ph0-50 ba br0-25" 
                                 href="/ministries"
                             >
                                     Explore More
@@ -45,10 +45,10 @@ export default function FacultyAndStaff() {
                             alt=""
                             className="h-100"
                         />
-                        <figcaption class="pa1-00 mt1-00 bg-black-50">
-                            <h3 class="mv1-00">Auntie Winnie</h3>
-                            <p class="mb2-00">English</p>
-                            <a class="white-90 pv0-25 ph0-50 ba br0-25" 
+                        <figcaption className="pa1-00 mt1-00 bg-black-50">
+                            <h3 className="mv1-00">Auntie Winnie</h3>
+                            <p className="mb2-00">English</p>
+                            <a className="white-90 pv0-25 ph0-50 ba br0-25" 
                                 href="/ministries"
                             >
                                     Explore More
@@ -66,10 +66,10 @@ export default function FacultyAndStaff() {
                             alt=""
                             className="h-100"
                         />
-                        <figcaption class="pa1-00 mt1-00 bg-black-50">
-                            <h3 class="mv1-00">Auntie Winnie</h3>
-                            <p class="mb2-00">English</p>
-                            <a class="white-90 pv0-25 ph0-50 ba br0-25" 
+                        <figcaption className="pa1-00 mt1-00 bg-black-50">
+                            <h3 className="mv1-00">Auntie Winnie</h3>
+                            <p className="mb2-00">English</p>
+                            <a className="white-90 pv0-25 ph0-50 ba br0-25" 
                                 href="/ministries"
                             >
                                     Explore More
@@ -87,10 +87,10 @@ export default function FacultyAndStaff() {
                             alt=""
                             className="h-100"
                         />
-                        <figcaption class="pa1-00 mt1-00 bg-black-50">
-                            <h3 class="mv1-00">Auntie Winnie</h3>
-                            <p class="mb2-00">English</p>
-                            <a class="white-90 pv0-25 ph0-50 ba br0-25" 
+                        <figcaption className="pa1-00 mt1-00 bg-black-50">
+                            <h3 className="mv1-00">Auntie Winnie</h3>
+                            <p className="mb2-00">English</p>
+                            <a className="white-90 pv0-25 ph0-50 ba br0-25" 
                                 href="/ministries"
                             >
                                     Explore More
@@ -113,10 +113,10 @@ export default function FacultyAndStaff() {
                             alt=""
                             className="h-100"
                         />
-                        <figcaption class="pa1-00 mt1-00 bg-black-50">
-                            <h3 class="mv1-00">Auntie Winnie</h3>
-                            <p class="mb2-00">English</p>
-                            <a class="white-90 pv0-25 ph0-50 ba br0-25" 
+                        <figcaption className="pa1-00 mt1-00 bg-black-50">
+                            <h3 className="mv1-00">Auntie Winnie</h3>
+                            <p className="mb2-00">English</p>
+                            <a className="white-90 pv0-25 ph0-50 ba br0-25" 
                                 href="/ministries"
                             >
                                     Explore More
@@ -133,10 +133,10 @@ export default function FacultyAndStaff() {
                             alt=""
                             className="h-100"
                         />
-                        <figcaption class="pa1-00 mt1-00 bg-black-50">
-                            <h3 class="mv1-00">Auntie Winnie</h3>
-                            <p class="mb2-00">English</p>
-                            <a class="white-90 pv0-25 ph0-50 ba br0-25" 
+                        <figcaption className="pa1-00 mt1-00 bg-black-50">
+                            <h3 className="mv1-00">Auntie Winnie</h3>
+                            <p className="mb2-00">English</p>
+                            <a className="white-90 pv0-25 ph0-50 ba br0-25" 
                                 href="/ministries"
                             >
                                     Explore More
@@ -154,10 +154,10 @@ export default function FacultyAndStaff() {
                             alt=""
                             className="h-100"
                         />
-                        <figcaption class="pa1-00 mt1-00 bg-black-50">
-                            <h3 class="mv1-00">Auntie Winnie</h3>
-                            <p class="mb2-00">English</p>
-                            <a class="white-90 pv0-25 ph0-50 ba br0-25" 
+                        <figcaption className="pa1-00 mt1-00 bg-black-50">
+                            <h3 className="mv1-00">Auntie Winnie</h3>
+                            <p className="mb2-00">English</p>
+                            <a className="white-90 pv0-25 ph0-50 ba br0-25" 
                                 href="/ministries"
                             >
                                     Explore More
@@ -175,10 +175,10 @@ export default function FacultyAndStaff() {
                             alt=""
                             className="h-100"
                         />
-                        <figcaption class="pa1-00 mt1-00 bg-black-50">
-                            <h3 class="mv1-00">Auntie Winnie</h3>
-                            <p class="mb2-00">English</p>
-                            <a class="white-90 pv0-25 ph0-50 ba br0-25" 
+                        <figcaption className="pa1-00 mt1-00 bg-black-50">
+                            <h3 className="mv1-00">Auntie Winnie</h3>
+                            <p className="mb2-00">English</p>
+                            <a className="white-90 pv0-25 ph0-50 ba br0-25" 
                                 href="/ministries"
                             >
                                     Explore More
@@ -201,10 +201,10 @@ export default function FacultyAndStaff() {
                             alt=""
                             className="h-100"
                         />
-                        <figcaption class="pa1-00 mt1-00 bg-black-50">
-                            <h3 class="mv1-00">Auntie Winnie</h3>
-                            <p class="mb2-00">English</p>
-                            <a class="white-90 pv0-25 ph0-50 ba br0-25" 
+                        <figcaption className="pa1-00 mt1-00 bg-black-50">
+                            <h3 className="mv1-00">Auntie Winnie</h3>
+                            <p className="mb2-00">English</p>
+                            <a className="white-90 pv0-25 ph0-50 ba br0-25" 
                                 href="/ministries"
                             >
                                     Explore More
@@ -221,10 +221,10 @@ export default function FacultyAndStaff() {
                             alt=""
                             className="h-100"
                         />
-                        <figcaption class="pa1-00 mt1-00 bg-black-50">
-                            <h3 class="mv1-00">Auntie Winnie</h3>
-                            <p class="mb2-00">English</p>
-                            <a class="white-90 pv0-25 ph0-50 ba br0-25" 
+                        <figcaption className="pa1-00 mt1-00 bg-black-50">
+                            <h3 className="mv1-00">Auntie Winnie</h3>
+                            <p className="mb2-00">English</p>
+                            <a className="white-90 pv0-25 ph0-50 ba br0-25" 
                                 href="/ministries"
                             >
                                     Explore More
@@ -242,10 +242,10 @@ export default function FacultyAndStaff() {
                             alt=""
                             className="h-100"
                         />
-                        <figcaption class="pa1-00 mt1-00 bg-black-50">
-                            <h3 class="mv1-00">Auntie Winnie</h3>
-                            <p class="mb2-00">English</p>
-                            <a class="white-90 pv0-25 ph0-50 ba br0-25" 
+                        <figcaption className="pa1-00 mt1-00 bg-black-50">
+                            <h3 className="mv1-00">Auntie Winnie</h3>
+                            <p className="mb2-00">English</p>
+                            <a className="white-90 pv0-25 ph0-50 ba br0-25" 
                                 href="/ministries"
                             >
                                     Explore More
@@ -263,10 +263,10 @@ export default function FacultyAndStaff() {
                             alt=""
                             className="h-100"
                         />
-                        <figcaption class="pa1-00 mt1-00 bg-black-50">
-                            <h3 class="mv1-00">Auntie Winnie</h3>
-                            <p class="mb2-00">English</p>
-                            <a class="white-90 pv0-25 ph0-50 ba br0-25" 
+                        <figcaption className="pa1-00 mt1-00 bg-black-50">
+                            <h3 className="mv1-00">Auntie Winnie</h3>
+                            <p className="mb2-00">English</p>
+                            <a className="white-90 pv0-25 ph0-50 ba br0-25" 
                                 href="/ministries"
                             >
                                     Explore More
@@ -289,10 +289,10 @@ export default function FacultyAndStaff() {
                             alt=""
                             className="h-100"
                         />
-                        <figcaption class="pa1-00 mt1-00 bg-black-50">
-                            <h3 class="mv1-00">Auntie Winnie</h3>
-                            <p class="mb2-00">English</p>
-                            <a class="white-90 pv0-25 ph0-50 ba br0-25" 
+                        <figcaption className="pa1-00 mt1-00 bg-black-50">
+                            <h3 className="mv1-00">Auntie Winnie</h3>
+                            <p className="mb2-00">English</p>
+                            <a className="white-90 pv0-25 ph0-50 ba br0-25" 
                                 href="/ministries"
                             >
                                     Explore More
@@ -309,10 +309,10 @@ export default function FacultyAndStaff() {
                             alt=""
                             className="h-100"
                         />
-                        <figcaption class="pa1-00 mt1-00 bg-black-50">
-                            <h3 class="mv1-00">Auntie Winnie</h3>
-                            <p class="mb2-00">English</p>
-                            <a class="white-90 pv0-25 ph0-50 ba br0-25" 
+                        <figcaption className="pa1-00 mt1-00 bg-black-50">
+                            <h3 className="mv1-00">Auntie Winnie</h3>
+                            <p className="mb2-00">English</p>
+                            <a className="white-90 pv0-25 ph0-50 ba br0-25" 
                                 href="/ministries"
                             >
                                     Explore More
@@ -330,10 +330,10 @@ export default function FacultyAndStaff() {
                             alt=""
                             className="h-100"
                         />
-                        <figcaption class="pa1-00 mt1-00 bg-black-50">
-                            <h3 class="mv1-00">Auntie Winnie</h3>
-                            <p class="mb2-00">English</p>
-                            <a class="white-90 pv0-25 ph0-50 ba br0-25" 
+                        <figcaption className="pa1-00 mt1-00 bg-black-50">
+                            <h3 className="mv1-00">Auntie Winnie</h3>
+                            <p className="mb2-00">English</p>
+                            <a className="white-90 pv0-25 ph0-50 ba br0-25" 
                                 href="/ministries"
                             >
                                     Explore More
@@ -351,10 +351,10 @@ export default function FacultyAndStaff() {
                             alt=""
                             className="h-100"
                         />
-                        <figcaption class="pa1-00 mt1-00 bg-black-50">
-                            <h3 class="mv1-00">Auntie Winnie</h3>
-                            <p class="mb2-00">English</p>
-                            <a class="white-90 pv0-25 ph0-50 ba br0-25" 
+                        <figcaption className="pa1-00 mt1-00 bg-black-50">
+                            <h3 className="mv1-00">Auntie Winnie</h3>
+                            <p className="mb2-00">English</p>
+                            <a className="white-90 pv0-25 ph0-50 ba br0-25" 
                                 href="/ministries"
                             >
                                     Explore More

@@ -1,3 +1,4 @@
+
 export const mainMenuLinks = [
     {
         id : 1,
@@ -225,3 +226,33 @@ export const socialLinks = [
         icon : ''
     },
 ];
+
+export const SGMLearnin = [
+    {
+        id : 1,
+        name: 'Preschool Creche',
+        desc: 'Preschool overview... adipisicing elit. Laboriosam sunt in modi pariatur reprehenderit a blanditiis eaque dignissimos ad, odio, vero, earum quisquam! Qui facilis praesentium ipsum natus repudiandae sequi',
+        link: 'learning/preschool'
+    },
+    {
+        id : 2,
+        image: '',
+        name: 'Lower Primary',
+        desc: 'Lower Primary Overview...amet consectetur adipisicing elit. Laboriosam sunt in modi pariatur reprehenderit a blanditiis eaque dignissimos ad, odio, vero, earum quisquam! Qui facilis praesentium ipsum natus repudiandae sequi',
+        link: 'learning/lower-primary'
+    },
+    {
+        id : 3,
+        image: '',
+        name: 'Upper Primary',
+        desc: 'Upper Primary overview...amet consectetur adipisicing elit. Laboriosam sunt in modi pariatur reprehenderit a blanditiis eaque dignissimos ad, odio, vero, earum quisquam! Qui facilis praesentium ipsum natus repudiandae sequi',
+        link: 'learning/upper-primary'
+    },
+    {
+        id : 4,
+        image: '',
+        name: 'Junior High School',
+        desc: 'Junior High School overview...amet consectetur adipisicing elit. Laboriosam sunt in modi pariatur reprehenderit a blanditiis eaque dignissimos ad, odio, vero, earum quisquam! Qui repudiandae sequi',
+        link: 'learning/junior-high'
+    }
+]

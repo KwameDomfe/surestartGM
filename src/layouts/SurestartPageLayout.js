@@ -11,7 +11,7 @@ export default function SurestartPageLayout() {
             <header id="" 
                 className="grid gtc12"
             >
-                <figure className="gc1s12 gr1s1 flex ggap0-50"
+                <figure className="gc1s12 gr1s1 grid gtc4 ggap0-50 vh-60"
                 >
                     <img src={regular_image} 
                         alt="" 
@@ -42,11 +42,11 @@ export default function SurestartPageLayout() {
                        "
                 >
                      <ul id="PageNavigation"
-                        className="pa0-50 w20-00 "
+                        className="pa1-00 w20-00 "
                     >
                         <li>
                             <NavLink to = ""
-                                className="dib mv1-50 white-90 f1-50 ttu b "
+                                className="dib mb1-00 white-90 f1-50 ttu b"
                             >
                                 Surestart Green Montessori
                             </NavLink>

@@ -10,7 +10,7 @@ export default function FamiliesPageLayout() {
             <header id="" 
                 className="grid gtc12"
             >
-                <figure className="gc1s12 gr1s1 flex ggap0-50"
+                <figure className="gc1s12 gr1s1 grid gtc4 ggap0-50 vh-60"
                 >
                     <img src={regular_image} 
                         alt="" 

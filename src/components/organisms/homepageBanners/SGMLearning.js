@@ -1,35 +1,13 @@
-import { Link } from "react-router-dom"
-import image from '../../../images/placeholders/regular_images/regular_01.png'
-
+import { Link } from "react-router-dom";
+import image_01 from '../../../images/placeholders/portrait/portrait_01.jpg';
+// import image_02 from '../../../images/placeholders/portrait/portrait_02.png';
+// import image_03 from '../../../images/placeholders/portrait/portrait_01.jpg';
+// import image_04 from '../../../images/placeholders/portrait/portrait_01.jpg';
+import {SGMLearnin} from '../../../data';
 function SGMLearning() {
-    const SGMLearning = [
-        {
-            id : 1,
-            image: '',
-            desc: 'Lorem bla bla and so on',
-            link: ''
-        },
-        {
-            id : 2,
-            image: '',
-            desc: 'Lorem bla bla and so on',
-            link: ''
-        },
-        {
-            id : 3,
-            image: '',
-            desc: 'Lorem bla bla and so on',
-            link: ''
-        },
-        {
-            id : 4,
-            image: '',
-            desc: 'Lorem bla bla and so on',
-            link: ''
-        }
-    ]
+    
     return (
-        <div className ="bg-black-20 w-100"
+        <div className ="bg-primary-01 white-90 w-100"
         >
             <header className="container container50">
                 <hgroup className="tc mv4-00">
@@ -40,33 +18,35 @@ function SGMLearning() {
                 </hgroup>
             </header>
 
-            <div className="bg-secondary pv4-00">
+            <div className="bg-secondary pv4-00"
+            >
                 <div className ="flex ggap0-50 
-                    vh-60 container container90 
-                    f1-25 "
+                     container container90 
+                    f1-25"
                 >
                     <figure 
                         className="grid gtc1 items-center justify-center"
                     >
-                        <img src={image} 
+                        <img src={image_01} 
                             alt="" 
                             className="gc1s1 gr1s1 
-                                h-100  
+                                h-100
                                 cover"
-                        />
+                            />
                         <figcaption className="gc1s1 gr1s1 
-                            flex flex-column items-center justify-center
+                            flex flex-column items-center justify-between
                             h-100 
                             pa1-00 
-                            bg-black-40 
+                            bg-black-30 
                             white-90 tc"
                         >
-                            <p className="mb1-00">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, ab.
+                            <h2 className="mb2-00">{SGMLearnin[0].name}</h2>
+                            <p>
+                                {SGMLearnin[0].desc}
                             </p>
-                            <h2 className="mb2-00">Preschool</h2>
-                            <Link to="learning/preschool"
-                                className="white-90 bg-secondary pv0-50 ph1-00 br0-25 f1-00 ba"
+                            
+                            <Link to={SGMLearnin[0].link}
+                                className="gold  bg-secondary pv0-50 ph1-00 br0-25 f1-00 ba"
                             >
                                 Learn More
                             </Link>
@@ -75,18 +55,26 @@ function SGMLearning() {
 
                     <figure className="grid gtc1 items-center justify-center"
                     >
-                        <img src={image} alt="" className="gc1s1 gr1s1 h-100 cover"/>
-                        <figcaption className="gc1s1 gr1s1 flex flex-column items-center justify-center
-                            h-100 pa1-00 
+                        <img src={image_01} 
+                            alt="" 
+                            className="gc1s1 gr1s1 
+                                h-100
+                                cover"
+                            />
+                        <figcaption className="gc1s1 gr1s1 
+                            flex flex-column items-center justify-between
+                            h-100 
+                            pa1-00 
                             bg-black-30 
                             white-90 tc"
                         >
+                            <h2 className="mb2-00">{SGMLearnin[1].name}</h2>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, ab.
+                                {SGMLearnin[1].desc}
                             </p>
-                            <h2 className="mb2-00">Lower Primary</h2>
-                            <Link to="learning/lower-primary"
-                                className="white-90 bg-secondary pv0-50 ph1-00 br0-25 f1-00 ba"
+                            
+                            <Link to={SGMLearnin[1].link}
+                                className="gold  bg-secondary pv0-50 ph1-00 br0-25 f1-00 ba"
                             >
                                 Learn More
                             </Link>
@@ -94,38 +82,46 @@ function SGMLearning() {
                     </figure>
 
                     <figure className="grid gtc1 items-center justify-center">
-                        <img src={image} alt="" className="gc1s1 gr1s1 h-100 cover"/>
-                        <figcaption className="gc1s1 gr1s1 flex flex-column items-center justify-center
-                            h-100 pa1-00 
+                        <img src={image_01} alt="" className="gc1s1 gr1s1 h-100 cover"/>
+                        <figcaption className="gc1s1 gr1s1 
+                            flex flex-column items-center justify-between
+                            pa1-00 h-100
                             bg-black-20 
                             white-90 tc"
                         >
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, ab.
+                             <h2 className="mb2-00">{SGMLearnin[2].name}</h2>
+                             <p>
+                                {SGMLearnin[2].desc}
                             </p>
-                            <h2 className="mb2-00">Upper Primary</h2>
-                            <Link to="learning/upper-primary"
-                                className="white-90 bg-secondary pv0-50 ph1-00 br0-25 f1-00 ba"
+                           
+                            <Link to={SGMLearnin[2].link}
+                                className="gold  bg-secondary pv0-50 ph1-00 br0-25 f1-00 ba"
                             >
                                 Learn More
                             </Link>
                         </figcaption>
                     </figure>
 
-                    <figure className="grid gtc1 items-center justify-center">
-                        <img src={image} alt="" className="gc1s1 gr1s1 h-100 cover"/>
+                    <figure className="grid gtc1 items-center justify-center"
+                    >
+                        <img src={image_01} 
+                            alt="" 
+                            className="gc1s1 gr1s1 h-100 cover"
+                        />
                         <figcaption className="gc1s1 gr1s1
-                            flex flex-column items-center justify-center
-                            h-100 pa1-00
+                            flex flex-column items-center justify-between 
+                            h-100
+                            pa1-00
                             bg-black-10 
                             white-90 tc"
                         >
+                            <h2 className="mb2-00">{SGMLearnin[3].name}</h2>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, ab.
+                                {SGMLearnin[3].desc}
                             </p>
-                            <h2 className="mb2-00">Junior High</h2>
-                            <Link to="learning/junior-high"
-                                className="white-90 bg-secondary pv0-50 ph1-00 br0-25 f1-00 ba"
+                           
+                            <Link to={SGMLearnin[3].link}
+                                className="gold bg-secondary pv0-50 ph1-00 br0-25 f1-00 ba"
                             >
                                 Learn More
                             </Link>
@@ -135,11 +131,15 @@ function SGMLearning() {
 
             </div>
             <footer className="tc pv4-00"> 
-                <h3>
+                <h3 className="f2-00">
                     Enrol your child / ward today. <br /> <br /> 
                 </h3>
                 <span>
-                    For further inquiries, talk to our Admissions Officer on (+233 54 567 3423)
+                    For further inquiries, <Link to="surestart/contacts-and-directions"
+                className="gold bg-secondary pv0-50 ph1-00 br0-25"
+            >
+                Talk To
+            </Link> our Admissions Officer.
                 </span>
             </footer>
         </div>

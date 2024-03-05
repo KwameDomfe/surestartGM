@@ -13,36 +13,36 @@ export default function SGMAtAGlance() {
             <div className="grid gtc12 ggap1-00 gc1s9 bg-primary pa1-00"
             >
                 <div id="FooterChurchServices" 
-                    class="gr1s1 gc1s6 bb br" 
+                    className="gr1s1 gc1s6 bb br" 
                 >
-                        <h2 class="ttu">
+                        <h2 className="ttu">
                             Type of School
                         </h2>
-                        <p class="active f1-25" 
+                        <p className="active f1-25" 
                         >
                             Independent Montessori
                         </p>
                         
                 </div>
                 <div id="FooterChurchServices" 
-                    class="gr3s1 gc1s6 bb" 
+                    className="gr3s1 gc1s6 bb" 
                 >
-                        <h2 class="ttu">
+                        <h2 className="ttu">
                             Grades
                         </h2>
-                        <p class="active f1-25" 
+                        <p className="active f1-25" 
                         >
                             18months through to Junior High
                         </p>
                         
                 </div>
                 <div id="FooterChurchServices" 
-                    class="gr6s1 gc7s6 bb" 
+                    className="gr6s1 gc7s6 bb" 
                 >
-                        <h2 class="ttu">
+                        <h2 className="ttu">
                             Enrollment By School
                         </h2>
-                        <p class="active f1-25" 
+                        <p className="active f1-25" 
                         >
                             Preschool: 40
                             Lower Primary : 80
@@ -52,37 +52,37 @@ export default function SGMAtAGlance() {
                         
                 </div>
                 <div id="FooterChurchServices" 
-                    class="gr2s1 gc7s6 bb" 
+                    className="gr2s1 gc7s6 bb" 
                 >
-                        <h2 class="ttu">
+                        <h2 className="ttu">
                             Established
                         </h2>
-                        <p class="active f1-25" 
+                        <p className="active f1-25" 
                         >
                             2014
                         </p>
                         
                 </div>
                 <div id="FooterChurchServices" 
-                    class="gr5s1 gc1s6 bb" 
+                    className="gr5s1 gc1s6 bb" 
                 >
-                        <h2 class="ttu">
+                        <h2 className="ttu">
                             Enrollment
                         </h2>
-                        <p class="active f1-25" 
+                        <p className="active f1-25" 
                         >
                             1,234
                         </p>
                         
                 </div>
                 <div id="FooterChurchServices" 
-                    class="gr4s1 gc7s6 bb" 
+                    className="gr4s1 gc7s6 bb" 
                 >
-                        <h2 class="ttu">
+                        <h2 className="ttu">
                             Gender Parity: 
                             
                         </h2>
-                        <p class="active f1-25" 
+                        <p className="active f1-25" 
                         >
                             Boys : 55 % <br />
                             Girls : 45 %
@@ -90,26 +90,26 @@ export default function SGMAtAGlance() {
                         
                 </div>
                 <div id="FooterChurchServices" 
-                    class="gr8s1 gc7s6 bb" 
+                    className="gr8s1 gc7s6 bb" 
                 >
-                        <h2 class="ttu">
+                        <h2 className="ttu">
                             School Motto: 
                             
                         </h2>
-                        <p class="active f1-25" 
+                        <p className="active f1-25" 
                         >
                             DUCENS DOCTRINA MODIES GRAS
                         </p>
                         
                 </div>
                 <div id="FooterChurchServices" 
-                    class="gr7s1 gc1s6 bb" 
+                    className="gr7s1 gc1s6 bb" 
                 >
-                        <h2 class="ttu">
+                        <h2 className="ttu">
                             School Colours: 
                             
                         </h2>
-                        <p class="active f1-25" 
+                        <p className="active f1-25" 
                         >
                             Green
                             Yellow
@@ -118,59 +118,59 @@ export default function SGMAtAGlance() {
                         
                 </div>
                 <div id="FooterChurchServices" 
-                    class="gr11s1 gc7s6 bb" 
+                    className="gr11s1 gc7s6 bb" 
                 >
-                        <h2 class="ttu">
+                        <h2 className="ttu">
                             School Location: 
                             
                         </h2>
-                        <p class="active f1-25" 
+                        <p className="active f1-25" 
                         >
                             Min. Road Amasaman.
                         </p>
                         
                 </div>
                 <div id="FooterChurchServices" 
-                    class="gr10s1 gc1s6 bb" 
+                    className="gr10s1 gc1s6 bb" 
                 >
-                        <h2 class="ttu">
+                        <h2 className="ttu">
                             Governance: 
                             
                         </h2>
-                        <p class="active f1-25" 
+                        <p className="active f1-25" 
                         >
                             The SureStart Green Montessoris Governing Council governs the affairs of the School. Board responsibilities include setting the school’s mission, vision, and strategic goals, establishing overall policy, assuring the school’s financial stability and selecting, and hiring, supporting and assessing the Head of School.
                         </p>
                         
                 </div>
                 <div id="FooterChurchServices" 
-                    class="gr13s1 gc7s6 bb" 
+                    className="gr13s1 gc7s6 bb" 
                 >
-                        <h2 class="ttu">
+                        <h2 className="ttu">
                             Accreditation:
                         </h2>
-                        <p class="active f1-25" 
+                        <p className="active f1-25" 
                         >
                             Association Montessori Internationale (AMI)
                         </p>
                         
                 </div>
                 <div id="FooterChurchServices" 
-                    class="gr12s1 gc1s6 bb" 
+                    className="gr12s1 gc1s6 bb" 
                 >
-                        <h2 class="ttu">
+                        <h2 className="ttu">
                             Membership 
                             
                         </h2>
-                        <p class="active f1-25" 
+                        <p className="active f1-25" 
                         >
                             Association of Montessori International 
                         </p>
-                        <p class="active f1-25" 
+                        <p className="active f1-25" 
                         >
                             Association of Montessori Ghana 
                         </p>
-                        <p class="active f1-25" 
+                        <p className="active f1-25" 
                         >
                             Ghana Private Schools Society  
                         </p>

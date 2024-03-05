@@ -12,17 +12,17 @@ const MainFooter = () => {
         "
     >
         <div id="container" 
-            className="grid gtc12 ggap1-00
+            className="grid gtc12
                 w-100  tc
-                pa1-00" 
+                " 
             tabIndex="0" 
             title="" 
             aria-label=""
         >
-            <h3 className="gc1s12">main footer section</h3>
-            <div className='gc1s12 pa1-00'>
-                <Poweredby />
-            </div>
+            <h3 className="gc1s12 mb0-00 pv2-00">
+                main footer section
+            </h3>
+           
             {/* <section id="o_navigation" 
                 className="gr1s1 gc1s12 " 
                 sections=""
@@ -61,6 +61,11 @@ const MainFooter = () => {
                 {/* <h1>Recents</h1>  
                 {/* <RecentLinks /> 
             </section> */}
+
+            <div className='gc1s12 pa1-00 bg-gray'
+            >
+                <Poweredby />
+            </div>
         </div>
     </div>
   )

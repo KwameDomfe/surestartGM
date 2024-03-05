@@ -22,38 +22,55 @@ function HeroSection() {
             </div>
 
             <div id="HeroSection__Highlights"
-                className="gc1s12
+                className="gc1s12 gr2s1
                     flex justify-around items-center 
                     container container90  
-                    pv4-00"
+                    pv2-00"
             >
-                <div className="flex items-center justify-center 
-                    w6-00 h6-00 
-                    bg-black-50 
-                    ba br5-00"
+                <div className="flex flex-column items-center justify-center
+                    w12-00 h12-00 
+                    bg-secondary
+                    gold
+                    ba bw3 br-100"
                 >
-                    card I
+                    <h2 className="f3-00 mb1-00">500<sup className="f2-00">+</sup></h2>
+                    
+                    <h2 className="">Pupils</h2>
+                    
                 </div>
-                <div className="flex items-center justify-center 
-                    w6-00 h6-00 
-                    bg-black-50 
-                    ba br5-00"
+                <div className="flex flex-column items-center justify-center
+                    w12-00 h12-00 
+                    
+                    bg-secondary
+                    gold
+                    ba bw3 br-100"
                 >
-                    card II
+                    <h2 className="f3-00 mb1-00">50<sup className="f2-00">+</sup></h2>
+                    
+                    <h2 className="">Educational Trips</h2>
+                    
                 </div>
-                <div className="flex items-center justify-center 
-                    w6-00 h6-00 
-                    bg-black-50 
-                    ba br5-00"
+                <div className="flex flex-column items-center justify-center
+                    w12-00 h12-00 
+                    bg-secondary
+                    gold
+                    ba bw3 br-100"
                 >
-                    card III
+                    <h2 className="f3-00 mb1-00">34<sup className="f2-00">+</sup></h2>
+                    
+                    <h2 className="">Staff</h2>
+                    
                 </div>
-                <div className="flex items-center justify-center 
-                    w6-00 h6-00 
-                    bg-black-50 
-                    ba br5-00"
+                <div className="flex flex-column items-center justify-center
+                    w12-00 h12-00 
+                    bg-secondary
+                    gold
+                    ba bw3 br-100"
                 >
-                    card I
+                    <h2 className="f3-00 mb1-00">200<sup className="f2-00">+</sup></h2>
+                    
+                    <h2 className="">Preschool Population</h2>
+                    
                 </div>
             </div>
         </article>

@@ -13,14 +13,19 @@ function SurestartLandingPage() {
         
         <div className="grid gtc12 ggap1-00 pl1-00 mb1-00"
         >
-            <hgroup className="gc1s12 w-100 blue0 tc"
+            <header id="LearningOverview"
+                className="gc1s12 gr1s1 
+                    black-50 tc"
             >
-                <h1 className="ph1-00 pt0-00 mv1-50
-                    f3-00 ttu"
-                >
-                    Sure Start Green Montessory
-                </h1>
-            </hgroup>
+                <hgroup className='w-100'>
+                    <h1 className="mv2-00
+                        f3-00 ttu"
+                    >
+                        Sure Start Green Montessory
+                    </h1>
+                    <p className="ph1-00 f1-75 lh-copy bg-black-40 mb0-00 tj">At (<abbr title="Surestart Green Montessori">SGM</abbr>) we dolor sit amet consectetur adipisicing elit. Tempora rem nihil <span className="b gold">PreScool</span> vero dolore cum maxime id optio excepturi minima?  Officiis sequi vitae, nihil laborum voluptatum saepe, quia ducimus consequatur <span className="b gold">Lower Primary</span> laboriosam iure ipsam maxime tempora numquam optio amet, atque qui <span className="b gold">Upper Primary</span>. Voluptates quis molestiae <span className="b gold">Junior High School</span> pariatur similique saepe rem voluptate at laborum neque?</p>
+                </hgroup>
+            </header>
 
             <section id="" 
                 className="gc1s6 gr2s1 flex items-center justify-center
