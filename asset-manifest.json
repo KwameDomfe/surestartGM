@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/surestartGM/static/css/main.18fc34f4.css",
-    "main.js": "/surestartGM/static/js/main.580424e6.js",
+    "main.css": "/surestartGM/static/css/main.b74d1ae9.css",
+    "main.js": "/surestartGM/static/js/main.41780037.js",
+    "static/media/regular-03.jpg": "/surestartGM/static/media/regular-03.1f6e67536be39a4e589a.jpg",
     "static/media/regular_03.jpg": "/surestartGM/static/media/regular_03.373630e9a650121ef478.jpg",
     "static/media/0101.jpg": "/surestartGM/static/media/0101.eb0be080e2fd8b5d0ba8.jpg",
+    "static/media/20210528_000212.jpg": "/surestartGM/static/media/20210528_000212.b664cee23044c3034bd8.jpg",
+    "static/media/portrait_01.jpg": "/surestartGM/static/media/portrait_01.993ab23c3d244c4bfe34.jpg",
     "static/media/surestart_logo.png": "/surestartGM/static/media/surestart_logo.ea7461a93e583acc49da.png",
     "index.html": "/surestartGM/index.html",
-    "main.18fc34f4.css.map": "/surestartGM/static/css/main.18fc34f4.css.map",
-    "main.580424e6.js.map": "/surestartGM/static/js/main.580424e6.js.map"
+    "main.b74d1ae9.css.map": "/surestartGM/static/css/main.b74d1ae9.css.map",
+    "main.41780037.js.map": "/surestartGM/static/js/main.41780037.js.map"
   },
   "entrypoints": [
-    "static/css/main.18fc34f4.css",
-    "static/js/main.580424e6.js"
+    "static/css/main.b74d1ae9.css",
+    "static/js/main.41780037.js"
   ]
 }
