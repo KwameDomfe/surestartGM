@@ -25,7 +25,7 @@ function HeroSection() {
                 className="gc1s12 gr2s1
                     flex justify-around items-center 
                     container container90  
-                    pv2-00"
+                    pv1-00"
             >
                 <div className="flex flex-column items-center justify-center
                     w12-00 h12-00 
